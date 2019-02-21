@@ -15,4 +15,4 @@
 * [LaTex for Authors Document](https://www.latex-project.org/help/documentation/usrguide.pdf)
 * [LaTex font selection](https://www.latex-project.org/help/documentation/fntguide.pdf)
 * [The Not So ShortIntroduction to LATEX2](https://tobi.oetiker.ch/lshort/lshort.pdf)
-* [Using LATEX to Write a PhD Thesis](ftp://ftp.dante.de/tex-archive/info/dickimaw/dickimaw-thesis.pdf)
+* Using LATEX to Write a PhD Thesis: ftp://ftp.dante.de/tex-archive/info/dickimaw/dickimaw-thesis.pdf
