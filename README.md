@@ -11,6 +11,8 @@
 
 [Atom](https://atom.io/)
 
+## Versioning ( ... [git](https://git-scm.com/) )
+
 ## Resource List
 
 * [LaTex Core Documentation](https://www.latex-project.org/help/documentation/#source-code-documentation)
