@@ -1,3 +1,3 @@
 # Latex Starter kit
 
-[https://latexbase.com][Start here]
+[Start here][https://latexbase.com]
