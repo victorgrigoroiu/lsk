@@ -9,7 +9,10 @@
 
 ## Editor('s)
 
-[Atom](https://atom.io/)
+### [Atom](https://atom.io/)
+
+List of good atom plug-ins:
+* ...
 
 ## Versioning ( ... [git](https://git-scm.com/) )
 
@@ -22,3 +25,4 @@
 * [MiKTeX Manual](https://ctan.mirror.norbert-ruehl.de/systems/win32/miktex/doc/2.9/miktex.pdf)
 * [Using LATEX to Write a PhD Thesis](https://www.dickimaw-books.com/latex/thesis/thesis-report.pdf)
 * [Writing a thesis with LATEX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
+* [ShareLatex Tutorial Videos](https://www.youtube.com/user/ShareLaTeX/videos)
