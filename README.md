@@ -1,6 +1,6 @@
 # LaTex Starter kit
 
-## Start here (https://latexbase.com)
+## Start here [LaTexBase](https://latexbase.com)
 
 ## Latex Online: [Overleaf](https://www.overleaf.com)
 
