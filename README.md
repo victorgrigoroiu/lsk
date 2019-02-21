@@ -1,2 +1,3 @@
-# lsle
-this is latex scrub lord eddition ... (wip)
+# Latex Starter kit
+
+[https://latexbase.com][Start here]
