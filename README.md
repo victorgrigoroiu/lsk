@@ -30,6 +30,11 @@ List of good atom plug-ins:
 
 ## Versioning ( ... [git](https://git-scm.com/) )
 
+## Place holder text
+
+* [lorem ipsum](https://loremipsum.io/)
+* [bacon ipsum](https://baconipsum.com/)
+
 ## Resource List
 
 * [LaTex Core Documentation](https://www.latex-project.org/help/documentation/#source-code-documentation)
