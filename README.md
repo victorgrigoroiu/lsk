@@ -6,13 +6,23 @@
 
 ## Install MikTex
 
+... wip
 
 ## Editor('s)
 
 ### [Atom](https://atom.io/)
 
 List of good atom plug-ins:
-* ...
+* file-icons
+* hightlight-selected
+* language-latex
+* latex
+* linter-latex
+* linter
+* linter-ui-default
+* prettier-atom
+* pdf-view
+* minimap
 
 ## LaTex "IDE"
 
