@@ -14,6 +14,10 @@
 List of good atom plug-ins:
 * ...
 
+## LaTex "IDE"
+
+[TexMaker](http://www.xm1math.net/texmaker/index.html)
+
 ## Versioning ( ... [git](https://git-scm.com/) )
 
 ## Resource List
