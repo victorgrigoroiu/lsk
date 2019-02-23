@@ -4,9 +4,11 @@
 
 ## Latex Online: [Overleaf](https://www.overleaf.com)
 
-## Install MikTex
+## Install [MikTex](https://miktex.org/)
 
-... wip
+* [Download](https://miktex.org/download)
+* [Documentation(html)](https://docs.miktex.org/2.9/manual/)
+* [Documentation(pdf)](https://ftp.fau.de/ctan/systems/win32/miktex/doc/2.9/miktex.pdf)
 
 ## Editor('s)
 
