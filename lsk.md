@@ -26,6 +26,8 @@ List of good atom plug-ins:
 * pdf-view
 * minimap
 
+### [Visual Studi Code](https://code.visualstudio.com/)
+
 ## LaTex "IDE"
 
 [TexMaker](http://www.xm1math.net/texmaker/index.html)
@@ -47,3 +49,4 @@ List of good atom plug-ins:
 * [Using LATEX to Write a PhD Thesis](https://www.dickimaw-books.com/latex/thesis/thesis-report.pdf)
 * [Writing a thesis with LATEX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
 * [ShareLatex Tutorial Videos](https://www.youtube.com/user/ShareLaTeX/videos)
+* [Notepad++](https://notepad-plus-plus.org/download/v7.6.3.html)
