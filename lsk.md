@@ -19,12 +19,13 @@ List of good atom plug-ins:
 * hightlight-selected
 * language-latex
 * latex
-* linter-latex
+* linter-latex (disabled for the time)
 * linter
 * linter-ui-default
 * prettier-atom
 * pdf-view
 * minimap
+* some sort of spell check, [this](https://atom.io/packages/spell-check) ?
 
 ### [Visual Studi Code](https://code.visualstudio.com/)
 
