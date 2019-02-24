@@ -51,3 +51,5 @@ List of good atom plug-ins:
 * [Writing a thesis with LATEX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
 * [ShareLatex Tutorial Videos](https://www.youtube.com/user/ShareLaTeX/videos)
 * [Notepad++](https://notepad-plus-plus.org/download/v7.6.3.html)
+
+#### [Bär](https://www.youtube.com/watch?v=2-Q5Q_fVW-o&t=23168s)
