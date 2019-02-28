@@ -48,7 +48,42 @@ List of good atom plug-ins:
 
 [TexMaker](http://www.xm1math.net/texmaker/index.html)
 
-## Versioning ( ... [git](https://git-scm.com/) )
+## IGNORE Versioning ( ... [git](https://git-scm.com/) )
+
+### Basic git commmands
+
+* desc is wip ....
+```
+git status
+```
+* desc is wip ....
+```
+git add .
+```
+* desc is wip ....
+```
+git commit -m "some message"
+```
+* desc is wip ....
+```
+git commit -a -m "some other message"
+```
+* desc is wip ....
+```
+git commit -a -m "some other message"
+```
+* desc is wip ....
+```
+git stash -save "some funky name"
+```
+* desc is wip ....
+```
+git pop
+```
+* WARNING desc is wip ....
+```
+git checkout -- .
+```
 
 ## Place holder text
 
