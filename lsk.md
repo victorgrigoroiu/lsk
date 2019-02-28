@@ -4,6 +4,21 @@
 
 ## Latex Online: [Overleaf](https://www.overleaf.com)
 
+## Latex Tips & Tricks
+
+* change how latex displays the chaptertitle
+```
+\usepackage{titlesec} % required package
+
+% special settings
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{0pt}{\Huge{\thechapter. }}
+```
+* change indentation of the paragraphs
+```
+\usepackage[parfill]{parskip} % just import the package
+```
+
 ## Install [MikTex](https://miktex.org/)
 
 * [Download](https://miktex.org/download)
