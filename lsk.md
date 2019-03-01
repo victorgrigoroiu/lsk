@@ -6,7 +6,7 @@
 
 ## Latex Tips & Tricks
 
-* change how latex displays the chaptertitle
+* change how latex displays the chaptertitle (to avoid changing the table of contents, table lists, etc. Please place this after those LaTex constructs are created)
 ```
 \usepackage{titlesec} % required package
 
@@ -70,15 +70,11 @@ git commit -a -m "some other message"
 ```
 * desc is wip ....
 ```
-git commit -a -m "some other message"
-```
-* desc is wip ....
-```
 git stash -save "some funky name"
 ```
 * desc is wip ....
 ```
-git pop
+git stash apply/pop
 ```
 * WARNING desc is wip ....
 ```
