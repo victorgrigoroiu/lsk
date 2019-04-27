@@ -52,34 +52,15 @@ List of good atom plug-ins:
 
 ### Basic git commmands
 
-* desc is wip ....
-```
-git status
-```
-* desc is wip ....
-```
-git add .
-```
-* desc is wip ....
-```
-git commit -m "some message"
-```
-* desc is wip ....
-```
-git commit -a -m "some other message"
-```
-* desc is wip ....
-```
-git stash -save "some funky name"
-```
-* desc is wip ....
-```
-git stash apply/pop
-```
-* WARNING desc is wip ....
-```
-git checkout -- .
-```
+| Command | Description |
+|---------|-------------|
+|`git status`| desc is wip ....|
+|`git add .`| desc is wip ....|
+|`git commit -m "some message"`| desc is wip ....|
+|`git commit -a -m "some other message"`| desc is wip ....|
+|`git stash -save "some funky name"`| desc is wip ....|
+|`git stash apply/pop`| desc is wip ....|
+|`ggit checkout -- file`| desc is wip ....|
 
 ## Place holder text
 
